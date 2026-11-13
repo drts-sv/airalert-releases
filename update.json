@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "0.14",
+  "versionCode": 15,
+  "versionName": "0.15",
   "apkUrl": "https://github.com/drts-sv/airalert-releases/releases/latest/download/airalert.apk",
-  "sha256": "d81aba031b6a1af1baa3824283309a8f792d656af223c4270e4a1a3fb712c8d7",
-  "notes": "Сборка 0.14 (versionCode 14) из GitHub Actions"
+  "sha256": "42086b8728f2ef333e44297fab59f1bebd9a6930e8cfeed5261c4d50dd329289",
+  "notes": "Сборка 0.15 (versionCode 15) из GitHub Actions"
 }
